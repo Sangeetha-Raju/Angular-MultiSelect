@@ -1,0 +1,19 @@
+.control-styles {
+    margin: 0 auto; 
+    width:300px; 
+    padding-top: 25px
+}
+.e-popup.e-multi-select-list-wrapper .e-filter-parent{
+    display: none;
+    }
+
+.highcontrast button,
+.bootstrap-dark button,
+.bootstrap5-dark button, 
+.bootstrap4-dark button,
+.fluent-dark button,
+.fabric-dark button,
+.tailwind-dark button,
+.material-dark button {
+background: inherit;
+}
